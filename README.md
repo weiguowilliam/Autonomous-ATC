@@ -1,8 +1,6 @@
 # Autonomous Air Traffic Control Tasks using Deep Reinforcement Learning
 ## Marc Brittain
-### mwb AT iastate DOT edu
 
-Fork of the BlueSky Air Traffic Simulator developed by TU Delft.The original ReadMe can be seen below.
 
 There are currently 2 branches: **lstm** and **N_Closest** to correspond to the following papers,
 
