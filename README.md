@@ -1,20 +1,13 @@
 # Autonomous Air Traffic Control Tasks using Deep Reinforcement Learning
-## Marc Brittain
+## Wei Guo
 
-
-There are currently 2 branches: **lstm** and **N_Closest** to correspond to the following papers,
-
-(1) [One to Any: Distributed Conflict Resolution with Deep Multi-Agent Reinforcement Learning and Long Short-Term Memory](https://www.researchgate.net/publication/338084245_One_to_Any_Distributed_Conflict_Resolution_with_Deep_Multi-Agent_Reinforcement_Learning_and_Long_Short-Term_Memory)
-
-(2) [Autonomous Air Traffic Controller: A Deep Multi-Agent Reinforcement Learning Approach](https://arxiv.org/abs/1905.01303)
+There are currently 2 branches: **lstm** and **N_Closest** for DRL-based aircraft separation assurance.
 
 
 Please see the individual branch for intructions on running. 
 
 
 If any of this work helped in your project or research I would love to hear about it! Please send me and email at the address listed above for comments, questions, or just to say hi.
-
-Please make sure to cite the papers in your work :) 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
